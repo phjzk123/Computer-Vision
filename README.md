@@ -103,4 +103,4 @@ python app.py
 
 ## 👨‍💻 Tác Giả
 
-Dự án được phát triển nhằm hỗ trợ việc nhận diện ngôn ngữ ký hiệu sử dụng AI.
+Dự án được phát triển nhằm hỗ trợ việc nhận diện ngôn ngữ ký hiệu.
